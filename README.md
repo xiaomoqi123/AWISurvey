@@ -1,7 +1,7 @@
 # Machine Learning for Actionable Warning Identification: A Survey
 
 ##  Typical workflow of machine learning-based actionable warning identification
-
+![图片](https://github.com/xiaomoqi123/AWISurvey/blob/main/workflow.jpg)
 
 ##  Primary studies
 
