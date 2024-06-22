@@ -33,7 +33,7 @@
 |	21	|	Learning to recognize actionable static code warings (is intrinsically easy)	|	2021	|	Empirical Software Engineering	|
 |	22	|	A Self-adaptive Approach for Assessing the Criticality of Security-Related Static Analysis Alerts	|	2021	|	Computational Science and Its Applications	|
 |	23	|	An empirical assessment of machine learning approaches for triaging reports of static analysis tools	|	2023	|	Empirical Software Engineering	|
-|	24	|	An Empirical Assessment of Machine Learning Approaches for Triaging Reports of a Java Static Analysis Tool	|	2019	|	EEE Conference on Software Testing, Validation and Verification	|
+|	24	|	An Empirical Assessment of Machine Learning Approaches for Triaging Reports of a Java Static Analysis Tool	|	2019	|	IEEE Conference on Software Testing, Validation and Verification	|
 |	25	|	Learning a classifier for false positive error reports emitted by static code analysis tools	|	2017	|	ACM SIGPLAN International Workshop on Machine Learning and Programming Languages 	|
 |	26	|	Ranking Source Code Static Analysis Warnings for Continuous Monitoring of FLOSS Repositories	|	2018	|	Open Source Systems: Enterprise Software and Solutions	|
 |	27	|	Finding patterns in static analysis alerts: improving actionable alert ranking	|	2014	|	Working Conference on Mining Software Repositories	|
