@@ -1,12 +1,12 @@
 # Machine Learning for Actionable Warning Identification: A Survey
 
-##  An example of the warning reported by SpotBugs
+##  (1) An example of the warning reported by SpotBugs
 ![图片](https://github.com/xiaomoqi123/AWISurvey/blob/main/warning%20example.jpg)
 
-##  Typical workflow of machine learning-based actionable warning identification
+##  (2) A typical ML-based AWI workflow
 ![图片](https://github.com/xiaomoqi123/AWISurvey/blob/main/workflow.jpg)
 
-##  Primary studies
+##  (3) All primary studies. Noted, the more details of key techniques used in the typical ML-based AWI workflow can be seen in meta_info.xlsx. The descriptions, strengths, and weaknessed of key techniques can be seen in key_technique_summary.xlsx.
 
 | ID|  Title               | Year | Publisher|
 | - |  --------------------| ---- | ---------|
@@ -60,3 +60,4 @@
 |	48	|	Combining the logical and the probabilistic in program analysis	|	2017	|	ACM SIGPLAN International Workshop on Machine Learning and Programming Languages 	|
 |	49	|	Semantic-based false alarm detection approach via machine learning	|	2021	|	International Conference on Software Quality, Reliability and Security	|
 |	50	|	An empirical study on classification methods for alarms from a bug-finding static C analyzer	|	2007	|	Information Processing Letters	|
+|	51	|	FRUGAL: Unlocking semi-supervised learning for software analytics	|	2021	|	IEEE/ACM International Conference on Automated Software Engineering (ASE)	|
