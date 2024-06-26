@@ -6,7 +6,10 @@
 ##  (2) A typical ML-based AWI workflow
 ![图片](https://github.com/xiaomoqi123/AWISurvey/blob/main/workflow.png)
 
-##  (3) All primary studies. Noted, the more details of key techniques used in the typical ML-based AWI workflow can be seen in meta_info.xlsx. The descriptions, strengths, and weaknessed of key techniques can be seen in key_technique_summary.xlsx.
+## （3）Data extraction info
+![图片](https://github.com/xiaomoqi123/AWISurvey/blob/main/data_extraction_items.png))
+
+##  (4) All primary studies. Noted, the more details of key techniques used in the typical ML-based AWI workflow can be seen in meta_info.xlsx. The descriptions, strengths, and weaknessed of key techniques can be seen in key_technique_summary.xlsx.
 
 | ID|  Title               | Year | Publisher|
 | - |  --------------------| ---- | ---------|
